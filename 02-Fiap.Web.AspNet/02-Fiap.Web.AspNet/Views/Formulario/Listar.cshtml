@@ -1,0 +1,28 @@
+﻿@model List<Pessoa>
+
+@{
+    ViewData["Title"] = "Listar";
+}
+
+<h1>Listar</h1>
+
+@if (Model != null)
+{
+    <table  class="table-primary">
+        <tr>
+            <th>Nome</th>
+            <th>Data</th>
+            <th>E-Mail</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr >
+                <td>@item.Name</td>
+                <td>@item.DataNascimento</td>
+                <td>@item.Email</td>
+            </tr>
+        }
+    </table>
+
+}
+

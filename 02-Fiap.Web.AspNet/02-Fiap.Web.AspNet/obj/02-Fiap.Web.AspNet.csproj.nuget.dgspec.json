@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet.csproj": {}
+    "D:\\DotNetWeb\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet.csproj": {}
   },
   "projects": {
-    "D:\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet.csproj": {
+    "D:\\DotNetWeb\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet.csproj",
+        "projectUniqueName": "D:\\DotNetWeb\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet.csproj",
         "projectName": "02-Fiap.Web.AspNet",
-        "projectPath": "D:\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet.csproj",
+        "projectPath": "D:\\DotNetWeb\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet.csproj",
         "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
-        "outputPath": "D:\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet\\obj\\",
+        "outputPath": "D:\\DotNetWeb\\02-Fiap.Web.AspNet\\02-Fiap.Web.AspNet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
